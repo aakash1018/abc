@@ -1,0 +1,12 @@
+{
+"author": "aakash71099",
+"name":"censorify",
+"version":"0.1.1",
+"description":"censor words out of bond",
+"main":"censortext.js",
+
+"dependecies":{},
+"engines":{
+"node": "*"
+}
+}
